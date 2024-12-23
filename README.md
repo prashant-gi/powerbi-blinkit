@@ -1,5 +1,9 @@
 # Power BI Dashboard Project
 
+![Alt text](./PDF%20Presentation/Images/1.jpg)
+
+
+
 Take your data analysis to the next level with this professional **Power BI Dashboard Project**. Perfect for businesses, students, and professionals, this ready-to-use dashboard helps analyze critical KPIs, improve decision-making, and showcase your data visualization skills.
 
 ## Key Features
